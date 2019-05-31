@@ -18,4 +18,4 @@ This repository contains all the required files to complete the final project fo
 * Effective use of differents modules and libraries introduced in the course.
 
 ## Project Due
-You should submit all the required files as described in the descriptions via Piazza before June, 25, 2019. Put all the required files in a folder with your student number.
+You should submit all the required files as described in the descriptions via Piazza before **June, 25, 2019**. Put all the required files in a folder with your student number.
