@@ -9,4 +9,4 @@ The repository contains the following files:
 * beads-run_1.txt and displacements-run_1.txt: sample outputs for the project.
 
 ### Project due:
-You should submit the required files (described in project description file) in Piazza before June, 15.
+You should submit all the required files (described in the project description file atomic-nature.pdf) in Piazza before June, 15, 2019.
