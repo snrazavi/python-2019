@@ -1,5 +1,7 @@
-# Python Course Project (2019)
+# Python Course Project (2019): Estimating Avogadro Number
 Files required for Python course project. This course is based on [Introduction To Programming in Python](https://introcs.cs.princeton.edu/python/home/). You can access all the slides (in Persian) and more information at [course website](http://www.snrazavi.ir/python-2019/).
+
+[Python-Project.gif]
 
 ### Contents
 The repository contains the following files:
