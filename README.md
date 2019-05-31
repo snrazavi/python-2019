@@ -1,5 +1,7 @@
 # Python Course Projects (2019): Estimating Avogadro Number
 
+[Brownian motion](Python-Project.gif)
+
 ## Contents
 * atomic-number.pdf: step by step description to complete the project
 * run_1.zip to run10.zip: dataset to use in the project.
