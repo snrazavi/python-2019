@@ -15,7 +15,7 @@ This repository contains all the required files to complete the final project fo
 * Writing functions and recursive functions.
 * Working with objects like Picture and Color.
 * Performing scientific computations.
-* Effective use of differents modules and libraries introduced in the course.
+* Effective use of different modules and libraries introduced in the course.
 
 ## Project Due
 You should submit all the required files as described in the descriptions via Piazza before **June, 25, 2019**. Put all the required files in a folder with your student number.
