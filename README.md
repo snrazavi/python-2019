@@ -8,5 +8,12 @@ The repository contains the following files:
 * movies: mp4 files related to the pictures in the dataset.
 * beads-run_1.txt and displacements-run_1.txt: sample outputs for the project.
 
+### Required skills to complete this project successfully:
+* Modular and Object Oriented Programming.
+* Working with files, redirecting and piping.
+* Writing functions and recursive functions
+* Working with objects like Picture and Color.
+* Performing scientific computations.
+
 ### Project due:
 You should submit all the required files (described in the project description file atomic-nature.pdf) in Piazza before June, 15, 2019.
