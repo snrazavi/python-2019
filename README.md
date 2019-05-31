@@ -1,5 +1,5 @@
 # Python Course Projects (2019): Estimating Avogadro Number
-This repository contains all the required files to complete the final project for Python programming course at faculty of Electerical and Computer Engineering, University of Tabriz, 2019. This course is based on the [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/). To download slides and for more information you can see [course websit](http://www.snrazavi.ir/python-2019/). Also you can watch video lectures in [my YouTube channel](https://www.youtube.com/c/SeyedNaserRazavi/).
+This repository contains all the required files to complete the final project for Python programming course at faculty of Electerical and Computer Engineering, University of Tabriz, 2019. This course is based on the [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/). To download slides and for more information you can see the [course websit](http://www.snrazavi.ir/python-2019/). Also you can watch video lectures related to this course in my [YouTube channel](https://www.youtube.com/c/SeyedNaserRazavi/).
 
 ![Brownian motion](Python-Project.gif)
 
