@@ -5,3 +5,4 @@ The repository contains the following files:
 * atomic-nature.pdf: description of the projects
 * dataset: ten zip files from run_1.zip to run_10.zip.
 * movies: mp4 files related to the pictures in the dataset.
+* beads_run_1.txt and displacements_run_1.txt: sample outputs for the project.
