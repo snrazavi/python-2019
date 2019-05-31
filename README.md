@@ -6,7 +6,7 @@
 * atomic-number.pdf: step by step description to complete the project
 * run_1.zip to run10.zip: dataset to use in the project.
 * mp4: a folder containing different movies displaying brownian motion of beads in water.
-* displacements-run_1.txt: sample outputs for this project.
+* beads-run_1.txt and displacements-run_1.txt: sample outputs for this project.
 
 ## Required skills to complete this project
 * Modular and Object Oriented Programming.
