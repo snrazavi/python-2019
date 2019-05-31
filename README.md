@@ -6,3 +6,6 @@ The repository contains the following files:
 * dataset: ten zip files from run_1.zip to run_10.zip.
 * movies: mp4 files related to the pictures in the dataset.
 * beads-run_1.txt and displacements-run_1.txt: sample outputs for the project.
+
+### Project due:
+You should submit the required files (described in project description file) in Piazza before June, 15.
